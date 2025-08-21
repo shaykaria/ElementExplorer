@@ -8,6 +8,8 @@ Element Explorer is a fun, interactive app that reimagines the periodic table. T
 - **Formula Calculator**: Input and validate chemical formulas or equations.
 - **Educational Focus**: Designed to make chemistry visual, intuitive, and engaging for students.
 
+![Periodic Table View](images/front-page)
+
 ## Purpose
 Created as an educational app for students to learn chemistry in a fun and interactive way. Perfect for anyone curious about how elements work in the real world.
 
